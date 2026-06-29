@@ -1,0 +1,2 @@
+# bba8d5bd191c7d8e-church-ministry-document-appro
+Every church ministry professionals needs this — most just don't know it yet.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Church Ministry Document Approval Workflow — fully configured and ready to use - Clean admin settings panel wi
