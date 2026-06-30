@@ -1,2 +1,59 @@
-# bba8d5bd191c7d8e-church-ministry-document-appro
-Every church ministry professionals needs this — most just don't know it yet.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Church Ministry Document Approval Workflow — fully configured and ready to use - Clean admin settings panel wi
+=== Church Ministry Document Approval Workflow Template ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Professional document approval workflow template built for church ministry operations and growth.
+
+== Description ==
+
+Professional document approval workflow template built for church ministry operations and growth.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Church Ministry Document Approval Workflow Template
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi7sL6mX1g09JK0VecZE02)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi7sL6mX1g09JK0VecZE02)
+
